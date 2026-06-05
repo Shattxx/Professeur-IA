@@ -1,0 +1,8 @@
+{
+  "name": "Professeur IA",
+  "description": "Un tuteur éducatif intelligent et bienveillant pour les 11-16 ans, utilisant le RAG et le Function Calling.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
