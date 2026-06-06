@@ -15,4 +15,4 @@ TTS offline or google TTS
 
 # recommendation
 LLM recomanded Mistral 3 3B or 8B Q5
-Minimum spec 16go RAM, 10go of storage and a CPU with avx2
+Minimum spec 16go RAM, 10go of free space on SSD and a CPU with avx2
